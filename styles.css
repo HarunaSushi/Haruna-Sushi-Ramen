@@ -85,14 +85,14 @@ body {
 }
 
 .menu a img {
-    width: 40px;
+    width: 30px;
     height: 30px;
     margin-right: 5px; 
 }
 
 /* Estilos para los botones de redes sociales */
 .menu img {
-    width: 40px;
+    width: 30px;
     height: 30px;
     margin: 0 5px;
     transition: opacity 0.3s;
@@ -105,7 +105,7 @@ body {
 }
 
 .logo-container img {
-    width: 100px; 
+    width: 60px; 
     height: auto; 
     border-radius: 10px; 
     border: 1px solid #fff; 
