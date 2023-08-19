@@ -28,7 +28,7 @@ body {
 
 /*  estilos del logo */
 .hero-logo {
-    width: 250px; 
+    width: 30px; 
     height: auto; 
     border-radius: 0px; 
     border: 1px solid  #ffffff; 
@@ -105,7 +105,7 @@ body {
 }
 
 .logo-container img {
-    width: 60px; 
+    width: 30px; 
     height: auto; 
     border-radius: 10px; 
     border: 1px solid #fff; 
