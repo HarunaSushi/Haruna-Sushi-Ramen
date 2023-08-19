@@ -85,14 +85,14 @@ body {
 }
 
 .menu a img {
-    width: 30px;
+    width: 250px;
     height: 30px;
     margin-right: 5px; 
 }
 
 /* Estilos para los botones de redes sociales */
 .menu img {
-    width: 30px;
+    width: 250px;
     height: 30px;
     margin: 0 5px;
     transition: opacity 0.3s;
